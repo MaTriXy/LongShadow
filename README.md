@@ -4,6 +4,10 @@
 
 Add a long shadow on any Android View
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/iqkQGAc2EFNdScAzpwZr1Sdy/florent37/LongShadow'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/iqkQGAc2EFNdScAzpwZr1Sdy/florent37/LongShadow.svg' />
+</a>
+
 [![gif](https://raw.githubusercontent.com/florent37/LongShadow/master/medias/sample.gif)](https://github.com/florent37/LongShadow)
 
 <a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
@@ -38,13 +42,7 @@ Add a long shadow on any Android View
 
 ```java
 dependencies {
-
     compile 'com.github.florent37:longshadow:(lastversion)'
-
-    compile "com.android.support:appcompat-v7:26.1.0"
-    
-    compile 'io.reactivex.rxjava2:rxjava:2.1.0'
-    
 }
 ```
 
@@ -86,7 +84,7 @@ You can add a long shadow on any view, even custom views
 
 Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentchampigny.com/)
 
-Blog : [http://www.tutos-android-france.com/](http://www.www.tutos-android-france.com/)
+Blog : [http://www.tutos-android-france.com/](http://www.tutos-android-france.com/)
 
 <a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
